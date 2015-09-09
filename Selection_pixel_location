@@ -1,0 +1,2 @@
+  run("Interpolate", "interval=1"); // Edit>Selection>Interpolate
+  getSelectionCoordinates(xpoints, ypoints); 
